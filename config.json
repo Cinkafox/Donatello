@@ -1,0 +1,11 @@
+{
+    "bot":{
+        "host":"grand-play.su",
+        "port":25565,
+        "version":"1.13.2"    
+    },
+    "bots":[
+        "Selesty",
+        "NakedGirl"
+    ]
+}
